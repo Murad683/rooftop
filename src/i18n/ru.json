@@ -1,0 +1,1143 @@
+{
+  "brand": {
+    "name": "RoofTop Lounge",
+    "subtitle": "Баку • вид на Каспий",
+    "phone": "+994 55 202 52 00",
+    "phoneLink": "994552025200",
+    "hours": "Каждый день · 10:00 – 01:00",
+    "service": "Применяется 10% сервисный сбор.",
+    "infoLine": "Каждый день · 10:00 – 01:00 · Применяется 10% сервисный сбор."
+  },
+  "nav": {
+    "home": "Главная",
+    "menu": "Меню",
+    "gallery": "Галерея",
+    "reservation": "Бронь",
+    "contact": "Контакты",
+    "open": "Открыть меню",
+    "close": "Закрыть меню"
+  },
+  "hero": {
+    "eyebrow": "Руфтоп • Баку",
+    "title": "Руфтоп-ужины с 360° видом на Баку",
+    "desc": "RoofTop Lounge объединяет панораму центра Баку и Каспийского моря с курируемой кухней и спокойной lounge-атмосферой.",
+    "infoLine": "Каждый день · 10:00 – 01:00 · Применяется 10% сервисный сбор.",
+    "ctaReserve": "Забронировать",
+    "ctaMenu": "Посмотреть меню",
+    "addrLine1": "Руфтоп-терраса в центре Баку",
+    "addrLine2": "Панорамный вид на бульвар и Каспий",
+    "hoursPrefix": "Часы:",
+    "hoursValue": "Каждый день · 10:00 – 01:00",
+    "rightEyebrow": "Сегодня",
+    "rightTitle": "Курируемые дегустации",
+    "rightDesc": "От бизнес-ланча до коктейлей на закате — персонализированные программы на высоте.",
+    "rightToday": "Столы сегодня",
+    "rightLimited": "Ограничено",
+    "rightNote": "Для групп и мероприятий доступны приватные зоны и 360°-терраса."
+  },
+  "experience": {
+    "eyebrow": "Опыт",
+    "title": "Руфтоп-взгляд на Баку",
+    "desc": "RoofTop Lounge с видом на центр Баку и Каспий создан для бизнес-ланчей, коктейлей на закате и поздних lounge-вечеров.",
+    "cardLabel": "RoofTop Lounge",
+    "cards": [
+      {
+        "title": "Панорамные виды",
+        "text": "Открытая терраса без преград — бульвар, горизонт и море в одном кадре.",
+        "meta": "360° Баку"
+      },
+      {
+        "title": "Курируемая кухня",
+        "text": "Бизнес-ланчи, грузинская, локальная и европейская кухня, авторские коктейли и винная карта.",
+        "meta": "Chef table"
+      },
+      {
+        "title": "Лаунж атмосфера",
+        "text": "Минималистичный дизайн, тёплый свет и сбалансированная музыка для компаний и камерных вечеров.",
+        "meta": "Calm lounge"
+      }
+    ]
+  },
+  "menu": {
+    "eyebrow": "Меню",
+    "title": "RoofTop меню",
+    "description": "Цены указаны в AZN. За деталями и аллергенами обращайтесь к нашей команде.",
+    "searchPlaceholder": "Напр.: бранч, коктейль, плов...",
+    "searchAria": "Поиск по меню",
+    "all": "Все",
+    "itemWord": "позиций",
+    "note": "К каждому счёту добавляется 10% сервисного сбора.",
+    "previewImageAria": "Открыть изображение крупно",
+    "cats": {
+      "biznes-lanc": "Бизнес-Ланч",
+      "gurcu-metbexi": "Грузинская Кухня",
+      "seher-menyusu": "Завтраки",
+      "qelyanaltilar": "Закуски",
+      "sorbalar": "Супы",
+      "salatlar": "Салаты",
+      "avropa-metbexi": "Европейская Кухня",
+      "milli-metbex": "Локальная Кухня",
+      "vegan": "Веган",
+      "fast-food": "Street Food",
+      "pastalar": "Пасты",
+      "qarnirler": "Гарниры",
+      "desert": "Десерт",
+      "alkoqolsuz-ickiler": "Безалкогольные",
+      "alkoqollu-ickiler": "Алкогольные",
+      "kokteyller": "Коктейли",
+      "serablar": "Вина"
+    },
+    "groups": {
+      "soyuq-qelyanaltilar": "Холодные закуски",
+      "isti-qelyanaltilar": "Горячие закуски",
+      "veqan": "Веганские салаты",
+      "caylar": "Чай",
+      "kofe": "Кофе",
+      "soyuq-ickiler": "Холодные напитки",
+      "teze-sixilmis-sireler": "Свежевыжатые соки",
+      "araq": "Водка",
+      "piveler": "Пиво",
+      "konyak": "Коньяк",
+      "gin": "Джин",
+      "tekila": "Текила",
+      "likor": "Ликёр",
+      "viski": "Виски",
+      "rom": "Ром",
+      "alkoqolsuz-kokteyller": "Безалкогольные коктейли",
+      "alkoqollu-kokteyller": "Алкогольные коктейли",
+      "serablar-qedeh": "Вино (бокал)",
+      "serablar": "Вино"
+    },
+    "items": {},
+    "itemsByIndex": {
+      "biznes-lanc": [
+        {
+          "name": "Biznes Lanç 15",
+          "desc": "Qiymət bir nəfər üçündür"
+        },
+        {
+          "name": "Biznes Lanç 20",
+          "desc": "Qiymət bir nəfər üçündür"
+        },
+        {
+          "name": "Biznes Lanç 25",
+          "desc": "Qiymət bir nəfər üçündür"
+        }
+      ],
+      "gurcu-metbexi": [
+        {
+          "name": "Xəngəl seti 2 nəfərlik",
+          "desc": "Gürcü xəngəli - 8 ədəd, Yarpaq xəngəli - 2 ədəd, turşu assorti, acika, qatıq, 6 ədəd məzə, Gürcü limonadı(0.5l), Sirab premium(0.75l)"
+        },
+        {
+          "name": "Xəngəl seti 4 nəfərlik",
+          "desc": "Gürcü xəngəli - 16 ədəd, Yarpaq xəngəli - 4 boşqab, turşu assorti, acika, qatıq, 6 ədəd məzə, 2 ədəd Gürcü limonadı(0.5l), 2 ədəd Sirab premium(0.75l)"
+        },
+        {
+          "name": "Gürcü xəngəli - 1 ədəd (qaynadılmış)",
+          "desc": "Qaynadılmış"
+        },
+        {
+          "name": "Gürcü xəngəli - 1 ədəd (qızardılmış)",
+          "desc": "Qızardılmış"
+        },
+        {
+          "name": "Yarpaq xəngəli",
+          "desc": ""
+        },
+        {
+          "name": "Yarpaq xəngəli (yarım porsiya)",
+          "desc": "Yarım porsiya"
+        },
+        {
+          "name": "Gürzə",
+          "desc": "Gürzə(quzu əti),qatıq"
+        },
+        {
+          "name": "Qızardılmış Gürzə",
+          "desc": ""
+        }
+      ],
+      "seher-menyusu": [
+        {
+          "name": "Səhər Yeməyi 2 Nəfərlik",
+          "desc": "Pomidor yumurta, şokolad yağı, bal, qaymaq, kərə yağı, zeytun, holland pendiri, ağ pendir, pomidor, xiyar, kəsmik, mürəbbə, kolbasa, qızardılmış sosiska, siqara börək, blinçik, çörək, meyvə şirəsi(2 stəkan), çay"
+        },
+        {
+          "name": "Səhər Yeməyi 4 Nəfərlik",
+          "desc": "Kükü, pomidor yumurta, omlet, şokolad yağı, bal, qaymaq, kərə yağı, zeytun, holland pendiri, ağ pendir, pomidor, xiyar, kəsmik, şirin kəsmik, mürəbbə, kolbasa, qızardılmış sosiska, siqara börək, blinçik, çörək, meyvə şirəsi(4 stəkan), çay"
+        },
+        {
+          "name": "İngilissayağı Səhər Yeməyi",
+          "desc": "Göz yumurta,qırmızı lobya,göbələk,pomidor,yumurtalı tost"
+        },
+        {
+          "name": "Norveç Benedikt Norveç",
+          "desc": "Hisə verilmiş qızıl balıq, tost çörək, yumurta, ispanaq"
+        },
+        {
+          "name": "Quymaq",
+          "desc": "Un, süt, qaymaq, bəhməz, darçın"
+        },
+        {
+          "name": "Sucuklu Göz Yumurta",
+          "desc": "Sucuk, yumurta"
+        },
+        {
+          "name": "Kükü",
+          "desc": "Qarışıq qöyərti, yumurta, kərə yağı"
+        },
+        {
+          "name": "Pomidor yumurta",
+          "desc": "Pomidor, yumurta"
+        },
+        {
+          "name": "Omlet",
+          "desc": "Qaymaq,yumurta"
+        },
+        {
+          "name": "Göz Yumurta",
+          "desc": "Yumurta"
+        }
+      ],
+      "qelyanaltilar": [
+        {
+          "name": "Məzə çeşidləri(yeni)",
+          "desc": "Humus, badımcan əzməsi, acılı əzmə, haydari, manqalda tərəvəzlər"
+        },
+        {
+          "name": "Avropa Pendir çeşidləri",
+          "desc": "Çedar, ağ pendir, qauda, saçaq pendir, bal"
+        },
+        {
+          "name": "Milli Pendir çeşidləri",
+          "desc": "Keçi pendir,inək pendir,saçaq pendir"
+        },
+        {
+          "name": "Turşu Assorti",
+          "desc": "Alça,pomidor,qöyəm,xıyar,alma turşuları"
+        },
+        {
+          "name": "Tərəvəz buketi",
+          "desc": "Pomidor,xıyar,göyərti"
+        },
+        {
+          "name": "Pələng Krevetkalar Ağ Çaxır Sousu ilə",
+          "desc": "Pələng krevetkaları, kərə yağı, kappers, ağ çaxır"
+        },
+        {
+          "name": "Toyuq qanadları BBQ Sousu ilə",
+          "desc": "Toyuq qanadları, BBQ sous"
+        },
+        {
+          "name": "Toyuq nuggets",
+          "desc": "Toyuq file, suxari, yumurta, kartof fri"
+        },
+        {
+          "name": "Qızardılmış Düşbərə",
+          "desc": ""
+        },
+        {
+          "name": "Krevetka Panko",
+          "desc": "Krevetka,suxari,yumurta,un,sweet chili sous"
+        },
+        {
+          "name": "Mozzarella Çubuqları",
+          "desc": "Mozzarella pendir,suxari,yumurta,sweet chili sous,un"
+        }
+      ],
+      "sorbalar": [
+        {
+          "name": "Kremli Tomat şorbası",
+          "desc": "Pomidor,soğan,kərəviz,kök,tomat pasta"
+        },
+        {
+          "name": "Göbələk şorbası",
+          "desc": "Göbelek, qaymaq, soğan, sarımsaq"
+        },
+        {
+          "name": "Mərci şorbası",
+          "desc": "Qırmizi mərci, kök, soğan, tomat pasta, nanə, limon"
+        },
+        {
+          "name": "Toyuq şorbası",
+          "desc": "Kənd toyuqu,soğan,kök,bibər,göyərti"
+        },
+        {
+          "name": "Düşbərə",
+          "desc": "Quzu əti, üzüm sirkəsi, nanə"
+        }
+      ],
+      "salatlar": [
+        {
+          "name": "Xırçıltılı toyuq salatı(yeni)",
+          "desc": ""
+        },
+        {
+          "name": "Sezar salatı - qızılbalıq ilə",
+          "desc": ""
+        },
+        {
+          "name": "Sezar salatı - krevet ilə",
+          "desc": ""
+        },
+        {
+          "name": "Sezar salatı - toyuq ilə",
+          "desc": ""
+        },
+        {
+          "name": "Tay salat - can əti ilə",
+          "desc": ""
+        },
+        {
+          "name": "Yunan salatı",
+          "desc": ""
+        },
+        {
+          "name": "Xırt-xırt Badımcan Salatı",
+          "desc": "Badımcan, rukola, pomidor, soya sousu, sweet chili, oyster sous, küncüt."
+        },
+        {
+          "name": "Vişnəli Pomidor Salatı",
+          "desc": "Vişnə, pomidor, qırmızı soğan, rukola."
+        },
+        {
+          "name": "Çoban Salatı",
+          "desc": "Pomidor, xiyar, ağ pendir, qırmızı soğan, bibər, zeytun yağı, limon."
+        }
+      ],
+      "avropa-metbexi": [
+        {
+          "name": "T–bone Steyk",
+          "desc": "demiglas sousu, qrildə tərəvəzlər"
+        },
+        {
+          "name": "Dallas Steyk",
+          "desc": "Qrildə dana əti, kartof, istiotlu sous, pomidor, acı bibər, demi glasse sousu"
+        },
+        {
+          "name": "Medalyon Steyki",
+          "desc": "Can əti, zeytun yağı, qrildə badımcan, qrildə balqabaq, çeri pomidoru, acı bibər"
+        },
+        {
+          "name": "Qrildə Qızılbalıq",
+          "desc": "Qızılbalıq, pomidor, acı bibər, balqabaq, qaymaq, parmezan pendiri, qaymaqlı soya sousu, limon, balzamik sousu"
+        },
+        {
+          "name": "Beef Stroganoff",
+          "desc": "Can əti, ağ soğan, xiyar turşusu, göbələk, pomidor, qaymaq, qauda pendiri, parmezan pendiri"
+        },
+        {
+          "name": "Chicken Suvi With Green Salad",
+          "desc": "Toyuq filesi, balzamik qlaze, yaşıllıq, kartof, soya sousu, özəl sous, küncüt, bal, xardal"
+        },
+        {
+          "name": "Toyuq çöpşiş",
+          "desc": "toyuq, limon, pomidor, göyərti, portağal, aysberq, zeytun yağı, pomidor əzməsi"
+        },
+        {
+          "name": "Dorado With Vegetable",
+          "desc": "Dorado balığı, rəngli bibər, limon, pomidor, zeytun yağı, yaşıllıq, xüsusi sous"
+        },
+        {
+          "name": "Gordon Blue Toyuq ilə",
+          "desc": "Hisə verilmiş toyuq filesi, vetçina, göbələk, qaymaq, çedar pendiri, yumurta, suxari, parmezan pendiri, xardal, kartof fri"
+        }
+      ],
+      "milli-metbex": [
+        {
+          "name": "Qarışıq sac (yeni)",
+          "desc": "Can əti, quzu əti, toyuq filesi, rəngli bibər, lavaş, pomidor, acı bibər, soğan"
+        },
+        {
+          "name": "Beyti kabab (yeni)",
+          "desc": "Quzu əti, mal əti, soğan, lavaş, rəngli bibər"
+        },
+        {
+          "name": "Dolma",
+          "desc": "üzum yarpağı, quzu əti, yumru düyü, göyərti, qatıq"
+        },
+        {
+          "name": "Turşulu Plov",
+          "desc": "Quzu əti, uzun düyü, albuxara, qayısı, kişmiş (sarı), şabalıd, ağ soğan, kərə yağı"
+        },
+        {
+          "name": "Quzu Nar Qovurması",
+          "desc": "Quzu əti, kartof, nar turşusu, soğan, göyərti"
+        },
+        {
+          "name": "Forel balığı",
+          "desc": "Forel balığı, narşərab, limon, qırmızı soğan"
+        },
+        {
+          "name": "Çoban Qovurma",
+          "desc": "Can əti, ağ soğan, pomidor, bibər, kartof, kərə yağı, göyərti"
+        },
+        {
+          "name": "Qrildə Qızardılmış Quzu Qabırğa",
+          "desc": "Quzu əti, qızardılmış tərəvəzlər, sumax, tartar sous, qırmızı soğan, ağ soğan"
+        },
+        {
+          "name": "Sac çolpa",
+          "desc": "Kənd çolpası, kartof, bibər, pomidor, göbələk, badımcan, ağ soğan, lavaş"
+        },
+        {
+          "name": "Sac Quzu",
+          "desc": "Quzu əti, kartof, bibər, göbələk, pomidor, lavaş, yaşıllıq, badımcan, kərə yağı"
+        }
+      ],
+      "vegan": [
+        {
+          "name": "Veqan çöpşiş - Avocado Quinoa ilə",
+          "desc": "Göbələk, pomidor, bibər, avokado, kinoya"
+        },
+        {
+          "name": "Kartoflu qızardılmış tərəvəzlər",
+          "desc": "Göbələk, kartof, pomidor, ispanaq, noxud, qaymaq, parmezan pendiri"
+        },
+        {
+          "name": "Pomidor Sousunda Dənli Bitkilərlə Düyü",
+          "desc": "Pomidor, dənli bitkilər, düyü"
+        }
+      ],
+      "fast-food": [
+        {
+          "name": "Tacos (yeni)",
+          "desc": "Toyuq file, acı bibər, lobya, qarğıdalı dənələri"
+        },
+        {
+          "name": "Toyuq Quesadilla (yeni)",
+          "desc": "Toyuq əti, çeddar pendiri, mozzarella pendiri, avocado, rəngli bibər, oreqano, soğan, sarımsaq"
+        },
+        {
+          "name": "Çizburger (300q)",
+          "desc": "Dana əti, ağ soğan, qırmızı soğan, burger çörək, kartof fri, mayonez, pomidor, aysberq, xiyar, xardal sousu, çeddar pendiri"
+        },
+        {
+          "name": "Toyuq Burger (300q)",
+          "desc": "Toyuq file, ağ soğan, burger çörəyi, kartof fri, pomidor, xiyar, xardal, qırmızı soğan, qauda pendiri, duru yağ"
+        },
+        {
+          "name": "Club Sandwich (300q)",
+          "desc": "Tost çörək, toyuq file, yumurta, pendir, kartof fri, ketçup, mayonez, aysberq, xiyar, pomidor, qırmızı soğan"
+        },
+        {
+          "name": "Sezar Roll",
+          "desc": "Lavaş, toyuq file, pomidor, duzlu xiyar, mayonez, kartof fri, aysberq, duru yağ"
+        }
+      ],
+      "pastalar": [
+        {
+          "name": "Pendir Souslu Penne",
+          "desc": "Penne pasta, süd, un, çeddar pendir, qırmızı soğan, rəngli bibər"
+        },
+        {
+          "name": "Penne Arrabbiata",
+          "desc": "Penne pasta, arrabbiata sous, parmezan pendiri, yaşıllıq"
+        },
+        {
+          "name": "Spaghetti Bolognese",
+          "desc": "Spaghetti pasta, bolonez sousu, yaşıllıq, parmezan pendiri, pomidor"
+        },
+        {
+          "name": "Fettuccine Qızıl Balıq ilə",
+          "desc": "Fettuccine pasta, qızıl balıq, duru yağ, parmezan pendiri, qaymaq, yaşıllıq, zeytun yağı"
+        },
+        {
+          "name": "Fettuccine Toyuqlu - göbələkli",
+          "desc": "Fettucini pasta, toyuq filesi, göbələk, qaymaq, parmezan pendiri, yaşıllıq, çeri pomidor"
+        }
+      ],
+      "qarnirler": [
+        {
+          "name": "Düyü",
+          "desc": ""
+        },
+        {
+          "name": "Püre",
+          "desc": ""
+        },
+        {
+          "name": "Kartof Fri",
+          "desc": ""
+        },
+        {
+          "name": "Evsayağı Kartof",
+          "desc": ""
+        },
+        {
+          "name": "Tərəvəz Qrildə",
+          "desc": ""
+        }
+      ],
+      "desert": [
+        {
+          "name": "Brownie Dondurma ilə",
+          "desc": ""
+        },
+        {
+          "name": "San Sebastian çizkeyk",
+          "desc": ""
+        },
+        {
+          "name": "Ballı Tort",
+          "desc": ""
+        },
+        {
+          "name": "Çiyələkli Cheesecake",
+          "desc": ""
+        },
+        {
+          "name": "Dondurma",
+          "desc": "Seçilmiş dadlar."
+        },
+        {
+          "name": "Meyvə Assorti",
+          "desc": ""
+        },
+        {
+          "name": "Mürəbbə",
+          "desc": ""
+        }
+      ],
+      "alkoqolsuz-ickiler": [
+        {
+          "name": "Çay Dəstgahı",
+          "desc": "Çay - 2 çaynik, çiyələk mürəbbəsi, ağ gilas mürəbbəsi, ağ və qara kişmiş, ərik qurusu, ananas qurusu, kivi qurusu, xurma, fındıq ləpə, qoz ləpə, yer fıstığı, lokum"
+        },
+        {
+          "name": "Yaşıl çay (çaynik)",
+          "desc": ""
+        },
+        {
+          "name": "Qara çay (çaynik)",
+          "desc": ""
+        },
+        {
+          "name": "Fincan çay",
+          "desc": ""
+        },
+        {
+          "name": "Ice latte",
+          "desc": ""
+        },
+        {
+          "name": "Raf",
+          "desc": ""
+        },
+        {
+          "name": "Karamel Latte",
+          "desc": ""
+        },
+        {
+          "name": "Mocha",
+          "desc": ""
+        },
+        {
+          "name": "Latte",
+          "desc": ""
+        },
+        {
+          "name": "Cappuccino",
+          "desc": ""
+        },
+        {
+          "name": "Flat White",
+          "desc": ""
+        },
+        {
+          "name": "Buzlu Americano",
+          "desc": ""
+        },
+        {
+          "name": "Frappuçino",
+          "desc": ""
+        },
+        {
+          "name": "Americano",
+          "desc": ""
+        },
+        {
+          "name": "Espresso Double",
+          "desc": ""
+        },
+        {
+          "name": "Espresso",
+          "desc": ""
+        },
+        {
+          "name": "Türk qəhvəsi",
+          "desc": ""
+        },
+        {
+          "name": "Su qazlı/qazsız (750 ml)",
+          "desc": ""
+        },
+        {
+          "name": "Su qazlı/qazsız (330 ml)",
+          "desc": ""
+        },
+        {
+          "name": "Coca Cola Zero",
+          "desc": ""
+        },
+        {
+          "name": "Sprite",
+          "desc": ""
+        },
+        {
+          "name": "Tonik",
+          "desc": ""
+        },
+        {
+          "name": "Red Bull",
+          "desc": ""
+        },
+        {
+          "name": "Meyvə şirəsi (0.25 lt)",
+          "desc": ""
+        },
+        {
+          "name": "Kompot",
+          "desc": ""
+        },
+        {
+          "name": "Fanta",
+          "desc": ""
+        },
+        {
+          "name": "Ayran",
+          "desc": ""
+        },
+        {
+          "name": "Coca Cola",
+          "desc": ""
+        },
+        {
+          "name": "Ev Sayağı Limonad",
+          "desc": ""
+        },
+        {
+          "name": "Ice Tea",
+          "desc": ""
+        },
+        {
+          "name": "Gürcüstan Limonadı",
+          "desc": ""
+        },
+        {
+          "name": "Meyvə şirəsi (1 lt)",
+          "desc": ""
+        },
+        {
+          "name": "Portağal şirəsi",
+          "desc": ""
+        }
+      ],
+      "alkoqollu-ickiler": [
+        {
+          "name": "Absolut (4cl)",
+          "desc": "Araq"
+        },
+        {
+          "name": "XAN 1860 (Şüşə)",
+          "desc": "Araq"
+        },
+        {
+          "name": "Finlandiya (0.5 LT)",
+          "desc": "Araq"
+        },
+        {
+          "name": "Grey Goose (4 CL)",
+          "desc": "Araq"
+        },
+        {
+          "name": "Xan Almaz (0.7 lt)",
+          "desc": "Araq"
+        },
+        {
+          "name": "Xan Sapphire (0.7 lt)",
+          "desc": "Araq"
+        },
+        {
+          "name": "Grey Goose (0.7 lt)",
+          "desc": "Araq"
+        },
+        {
+          "name": "Finlandiya (1 lt)",
+          "desc": "Araq"
+        },
+        {
+          "name": "Absolute (1 lt)",
+          "desc": "Araq"
+        },
+        {
+          "name": "Xan Sapphire (4 CL)",
+          "desc": "Araq"
+        },
+        {
+          "name": "Absalute (0.5 lt)",
+          "desc": "Araq"
+        },
+        {
+          "name": "Finlandiya (0.7 lt)",
+          "desc": "Araq"
+        },
+        {
+          "name": "Xirdalan (0.5) Bottle",
+          "desc": "Pivə"
+        },
+        {
+          "name": "Corona",
+          "desc": "Pivə"
+        },
+        {
+          "name": "Erdinger Bottle (0.5)",
+          "desc": "Pivə"
+        },
+        {
+          "name": "R-DELISLE XO (4 CL)",
+          "desc": "Konyak"
+        },
+        {
+          "name": "Xan 1860 Xo (0.7LT)",
+          "desc": "Konyak"
+        },
+        {
+          "name": "Xan 1860 XO (4 CL)",
+          "desc": "Konyak"
+        },
+        {
+          "name": "Martell VSOP (4 CL)",
+          "desc": "Konyak"
+        },
+        {
+          "name": "Hendriks (4 CL)",
+          "desc": "Gin"
+        },
+        {
+          "name": "Bombay Sapphire (4 CL)",
+          "desc": "Gin"
+        },
+        {
+          "name": "Gordon (4 CL)",
+          "desc": "Gin"
+        },
+        {
+          "name": "Patron Silver (4CL)",
+          "desc": "Tekila"
+        },
+        {
+          "name": "Olmega Gold (4 CL)",
+          "desc": "Tekila"
+        },
+        {
+          "name": "Olmega Siver (4 CL)",
+          "desc": "Tekila"
+        },
+        {
+          "name": "Olmega Silver (1LT)",
+          "desc": "Tekila"
+        },
+        {
+          "name": "Sierra Silver (4 CL)",
+          "desc": "Tekila"
+        },
+        {
+          "name": "Jagermeister 6 ed (4 CL)",
+          "desc": "Likor"
+        },
+        {
+          "name": "Martini (4 CL)",
+          "desc": "Likor"
+        },
+        {
+          "name": "Absent Xenta (4 CL)",
+          "desc": "Likor"
+        },
+        {
+          "name": "Cointreau (4 CL)",
+          "desc": "Likor"
+        },
+        {
+          "name": "Baileys (4 CL)",
+          "desc": "Likor"
+        },
+        {
+          "name": "Aperol (4 CL)",
+          "desc": "Likor"
+        },
+        {
+          "name": "Kahlua (4 CL)",
+          "desc": "Likor"
+        },
+        {
+          "name": "Campari (4 CL)",
+          "desc": "Likor"
+        },
+        {
+          "name": "Jagermeister (4 CL)",
+          "desc": "Likor"
+        },
+        {
+          "name": "Jagermeister (1LT)",
+          "desc": "Likor"
+        },
+        {
+          "name": "Sambuca (4 CL)",
+          "desc": "Likor"
+        },
+        {
+          "name": "Black Label 4cl",
+          "desc": "Viski"
+        },
+        {
+          "name": "Chivas Regal18 4cl",
+          "desc": "Viski"
+        },
+        {
+          "name": "Glenfiddich12 4cl",
+          "desc": "Viski"
+        },
+        {
+          "name": "Ballantines 4 cl",
+          "desc": "Viski"
+        },
+        {
+          "name": "Gold Label 4cl",
+          "desc": "Viski"
+        },
+        {
+          "name": "Chivas Regal 18 (0.7LT)",
+          "desc": "Viski"
+        },
+        {
+          "name": "Jack Daniels 4cl",
+          "desc": "Viski"
+        },
+        {
+          "name": "Red Label 4cl",
+          "desc": "Viski"
+        },
+        {
+          "name": "Jameson 4cl",
+          "desc": "Viski"
+        },
+        {
+          "name": "Chivas Regal 12 4cl",
+          "desc": "Viski"
+        },
+        {
+          "name": "Chivas Regal 12 (1 LT)",
+          "desc": "Viski"
+        },
+        {
+          "name": "Red Label (1 LT)",
+          "desc": "Viski"
+        },
+        {
+          "name": "Jameson (1 LT)",
+          "desc": "Viski"
+        },
+        {
+          "name": "Jack Daniel's (1 LT)",
+          "desc": "Viski"
+        },
+        {
+          "name": "Jim Beam 4cl",
+          "desc": "Viski"
+        },
+        {
+          "name": "Malibu (4 CL)",
+          "desc": "Rom"
+        },
+        {
+          "name": "Bacardi 4cl",
+          "desc": "Rom"
+        }
+      ],
+      "kokteyller": [
+        {
+          "name": "Sunrise",
+          "desc": "Alkoqolsuz kokteyl."
+        },
+        {
+          "name": "Energy Mojito",
+          "desc": "Alkoqolsuz kokteyl."
+        },
+        {
+          "name": "Milkshake (çiyələkli)",
+          "desc": "Alkoqolsuz kokteyl."
+        },
+        {
+          "name": "Milkshake (Şokoladlı)",
+          "desc": "Alkoqolsuz kokteyl."
+        },
+        {
+          "name": "Milkshake (Vanilyalı)",
+          "desc": "Alkoqolsuz kokteyl."
+        },
+        {
+          "name": "Mojito Virgin",
+          "desc": "Alkoqolsuz kokteyl."
+        },
+        {
+          "name": "White Lady",
+          "desc": "Alkoqollu kokteyl."
+        },
+        {
+          "name": "Dry Martini",
+          "desc": "Alkoqollu kokteyl."
+        },
+        {
+          "name": "Negroni",
+          "desc": "Alkoqollu kokteyl."
+        },
+        {
+          "name": "Americano",
+          "desc": "Alkoqollu kokteyl."
+        },
+        {
+          "name": "Margarita",
+          "desc": "Alkoqollu kokteyl."
+        },
+        {
+          "name": "Mojito",
+          "desc": "Alkoqollu kokteyl."
+        },
+        {
+          "name": "Pina Kolada",
+          "desc": "Alkoqollu kokteyl."
+        },
+        {
+          "name": "Cosmopolitan",
+          "desc": "Alkoqollu kokteyl."
+        },
+        {
+          "name": "Long Iceland",
+          "desc": "Alkoqollu kokteyl."
+        },
+        {
+          "name": "Sex On The Beach",
+          "desc": "Alkoqollu kokteyl."
+        },
+        {
+          "name": "Aperol Spritz",
+          "desc": "Alkoqollu kokteyl."
+        }
+      ],
+      "serablar": [
+        {
+          "name": "Savalan (qədəh)",
+          "desc": ""
+        },
+        {
+          "name": "Xan GöyGöl (qədəh)",
+          "desc": ""
+        },
+        {
+          "name": "Xan GöyGöl (Şüşə)",
+          "desc": ""
+        },
+        {
+          "name": "Xan Qarabağ (Şüşə)",
+          "desc": ""
+        },
+        {
+          "name": "Xan Jemcujina (0.75 lt)",
+          "desc": ""
+        },
+        {
+          "name": "Pearl Champagne",
+          "desc": ""
+        },
+        {
+          "name": "Scanavino Prosecco",
+          "desc": ""
+        },
+        {
+          "name": "Yelenendorf Muskat",
+          "desc": ""
+        },
+        {
+          "name": "Savalan (Şüşə)",
+          "desc": "Ağ / Qırmızı / Rose"
+        },
+        {
+          "name": "Terra Leone Cabernet Sauvignon",
+          "desc": "Qırmızı"
+        },
+        {
+          "name": "Terra Leone Merlot",
+          "desc": "Qırmızı"
+        },
+        {
+          "name": "Terra Leone Sauvignon Blanc",
+          "desc": "Ağ"
+        },
+        {
+          "name": "Terra Leone Rose",
+          "desc": "Rose"
+        },
+        {
+          "name": "Terra Leone Pomegranate",
+          "desc": "Nar"
+        },
+        {
+          "name": "Chabiant",
+          "desc": "Ağ | Qırmızı"
+        },
+        {
+          "name": "Moet Chandon Imperial Brut",
+          "desc": ""
+        }
+      ]
+    }
+  },
+  "gallery": {
+    "eyebrow": "Галерея",
+    "title": "RoofTop Lounge",
+    "desc": "Панорамы террасы и блюда из курируемого меню RoofTop Lounge.",
+    "img1Title": "Панорамная терраса",
+    "img1Sub": "Закат над бульваром",
+    "img2Title": "Курируемая кухня",
+    "img2Sub": "Грузинские и европейские акценты",
+    "img3Title": "Лаунж-десерты",
+    "img3Sub": "Современная подача"
+  },
+  "about": {
+    "eyebrow": "О нас",
+    "title": "RoofTop Lounge",
+    "p1": "RoofTop Lounge — руфтоп-ресторан и lounge в сердце Баку. Мы соединяем открытую террасу, классическую архитектуру и современный гастрономический опыт.",
+    "p2": "Меню объединяет грузинскую, локальную азербайджанскую и европейскую кухни: завтраки, бизнес-ланч, стейки, морепродукты, веган-опции и авторские коктейли.",
+    "featKitchen": "Панорамные виды",
+    "featKitchenText": "360° терраса с видом на Каспий.",
+    "featPhilosophy": "Кухня",
+    "featPhilosophyText": "Современная подача грузинских и локальных рецептов.",
+    "featAtmos": "Атмосфера",
+    "featAtmosText": "Тёплый свет, музыка и сервис, ориентированный на гостя.",
+    "cardEyebrow": "Программа дня",
+    "cardTitle": "Бизнес-ланч, коктейли и вечерние наборы",
+    "cardText": "Для групп и особых событий мы адаптируем меню и террасу под формат.",
+    "hoursLabel": "Часы",
+    "hoursValue": "Каждый день · 10:00 – 01:00",
+    "addrLabel": "Локация",
+    "addrValue": "Центр Баку, руфтоп с видом на бульвар",
+    "contactLabel": "Телефон"
+  },
+  "contact": {
+    "eyebrow": "Контакты",
+    "title": "Связь и бронь",
+    "desc": "Свяжитесь с нами для брони столов, частных событий или групп.",
+    "addr": "Руфтоп-терраса в центре Баку с панорамой бульвара и Каспия.",
+    "phone": "Телефон",
+    "hoursLabel": "Часы работы",
+    "hoursValue": "Каждый день · 10:00 – 01:00"
+  },
+  "homeAtmos": {
+    "eyebrow": "Атмосфера",
+    "title": "RoofTop mood",
+    "desc": "Короткие видео со спокойной музыкой, террасой и интерьером."
+  },
+  "homeCTA": {
+    "eyebrow": "Бронь",
+    "title": "Забронируйте RoofTop Lounge",
+    "desc": "Форма (UI) или WhatsApp — напишите нам для индивидуальной брони.",
+    "btnReserve": "Онлайн-бронирование",
+    "btnWhatsApp": "Написать в WhatsApp",
+    "quick": "Важно",
+    "infoHours": "Часы: 10:00 – 01:00",
+    "infoAddr": "Локация: центр Баку, руфтоп",
+    "infoPhone": "Телефон: +994 55 202 52 00",
+    "waText": "RoofTop Lounge — запрос на бронь"
+  },
+  "homeInfo": {
+    "hours": "Часы",
+    "hoursValue": "Каждый день · 10:00 – 01:00",
+    "address": "Адрес",
+    "addressValue": "Центр Баку, панорамная терраса",
+    "map": "Открыть карту",
+    "mapLabel": "Карта"
+  },
+  "testimonials": {
+    "eyebrow": "Отзывы",
+    "title": "Гости о RoofTop Lounge",
+    "desc": "Премиальный сервис, музыка и 360°-панорама Баку — выдержки из отзывов.",
+    "prev": "Назад",
+    "next": "Вперёд",
+    "list": [
+      {
+        "name": "Гость бизнес-ланча",
+        "text": "Идеально для встреч: оперативный сервис и вдохновляющий вид.",
+        "meta": "Посетил в 2024"
+      },
+      {
+        "name": "Житель города",
+        "text": "Коктейли на закате и спокойная музыка — будто другой город на руфтопе.",
+        "meta": "Лето 2024"
+      },
+      {
+        "name": "Тревел-блогер",
+        "text": "Кухня и сервис задают новый стандарт lounge-сцене Баку.",
+        "meta": "Отзыв на TripAdvisor"
+      }
+    ]
+  },
+  "res": {
+    "eyebrow": "Бронь",
+    "title": "Форма связи",
+    "desc": "UI-форма: после отправки открывается WhatsApp-чат, и команда подтвердит бронь.",
+    "call": "Позвонить",
+    "whNote": "",
+    "labelName": "Имя и фамилия",
+    "labelPhone": "Телефон",
+    "labelDate": "Дата",
+    "labelTime": "Время",
+    "labelPeople": "Гостей",
+    "labelNote": "Комментарий",
+    "submit": "Отправить в WhatsApp",
+    "waPrefix": "RoofTop Lounge — запрос на бронь:",
+    "waName": "Имя",
+    "waPhone": "Телефон",
+    "waDate": "Дата",
+    "waTime": "Время",
+    "waPeople": "Количество гостей",
+    "waNote": "Комментарий"
+  },
+  "footer": {
+    "tagline": "Руфтоп-лаунж с панорамой Баку и Каспия.",
+    "hoursHeading": "Часы работы",
+    "cta": "Позвонить для резерва",
+    "contactHeading": "Контакты",
+    "phoneLabel": "Телефон",
+    "address": "Баку, 360° вид на город и Каспий",
+    "socialsLabel": "Социальные ссылки",
+    "instagram": "Instagram",
+    "tiktok": "TikTok",
+    "maps": "Google Maps",
+    "copyright": "© 2025 RoofTop Lounge. Все права защищены.",
+    "createdBy": "Created by REVIO.AZ"
+  },
+  "seo": {
+    "home": {
+      "title": "RoofTop Lounge Baku — 360° вид и lounge-атмосфера",
+      "desc": "RoofTop Lounge предлагает курируемое меню, коктейли и панораму на центр Баку и Каспий."
+    },
+    "menu": {
+      "title": "Меню — RoofTop Lounge",
+      "desc": "Бизнес-ланч, грузинская кухня, коктейли и вина."
+    },
+    "gallery": {
+      "title": "Галерея — RoofTop Lounge",
+      "desc": "Терраса и блюда из нашего меню."
+    },
+    "reservation": {
+      "title": "Бронь — RoofTop Lounge",
+      "desc": "UI-форма и WhatsApp-запрос для брони стола."
+    },
+    "contact": {
+      "title": "Контакты — RoofTop Lounge",
+      "desc": "Телефон, часы и карта руфтопа."
+    }
+  }
+}

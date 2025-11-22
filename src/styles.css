@@ -1,0 +1,134 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    /* Fixed header offset for in-page anchors */
+    scroll-padding-top: 72px;
+  }
+
+  :root {
+    color-scheme: light;
+  }
+
+  body {
+    @apply bg-lightBg text-textMain font-sans text-[15px] leading-relaxed sm:text-base;
+  }
+
+  /* Slightly increase default paragraph line-height for readability */
+  p {
+    line-height: 1.75;
+  }
+
+  ::selection {
+    background-color: #D4BA7E;
+    color: #1A1A1A;
+  }
+}
+
+@layer components {
+  .container-layout {
+    @apply max-w-6xl mx-auto px-5 sm:px-6 lg:px-8;
+  }
+
+  .section-padding {
+    @apply py-14 sm:py-16 lg:py-20;
+  }
+
+  .card-soft {
+    @apply rounded-2xl bg-cardBg shadow-soft;
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center justify-center rounded-full px-6 py-3 text-sm font-medium tracking-wide transition duration-300 ease-out hover:shadow-soft focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[rgba(212,186,126,0.6)] min-h-[44px] active:scale-[.98] w-full sm:w-auto;
+    background-color: #755D34;
+    color: #FFFFFF;
+    border: 1px solid transparent;
+  }
+  .btn-primary:hover,
+  .btn-primary:focus-visible {
+    background-color: #C6AA76;
+    color: #FFFFFF;
+  }
+  .btn-primary:disabled {
+    background-color: rgba(117, 93, 52, 0.5);
+    color: #F9F6F0;
+    cursor: not-allowed;
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center justify-center rounded-full px-6 py-3 text-sm font-medium tracking-wide transition duration-300 ease-out focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[rgba(212,186,126,0.6)] min-h-[44px] active:scale-[.98] w-full sm:w-auto;
+    background-color: #FFFFFF;
+    border: 1px solid #D4BA7E;
+    color: #55514A;
+  }
+  .btn-secondary:hover {
+    background-color: rgba(212,186,126,0.08);
+    color: #3C3935;
+  }
+
+  .nav-link {
+    @apply inline-block text-xs tracking-[0.25em] uppercase transition-colors duration-200 ease-out;
+    color: #55514A;
+  }
+  .nav-link:hover {
+    color: #3C3935;
+  }
+  .nav-link.is-active {
+    color: #3C3935;
+    text-decoration-line: underline;
+    text-decoration-color: #D4BA7E;
+    text-underline-offset: 6px;
+    text-decoration-thickness: 1px;
+  }
+}
+
+@layer utilities {
+  @keyframes btn-soft-pulse {
+    0%, 92%, 100% {
+      box-shadow: 0 0 0 rgba(0,0,0,0);
+    }
+    96% {
+      box-shadow: 0 18px 45px rgba(0,0,0,0.18);
+    }
+  }
+
+  .btn-pulse {
+    animation: btn-soft-pulse 24s ease-out infinite;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .btn-pulse {
+      animation: none;
+    }
+  }
+
+  .tap-scale {
+    @apply transition-transform active:scale-95;
+  }
+  /* Dotted leader to visually connect name and price */
+  .leaders {
+    background-image: radial-gradient(currentColor 1px, transparent 1px);
+    background-size: 6px 1px;
+    background-repeat: repeat-x;
+    background-position: left 0.9em;
+    height: 1px;
+    color: rgba(212,186,126,0.35); /* accentGold/35 */
+  }
+
+  /* Respect iOS safe areas on mobile sticky bars */
+  .pb-safe {
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+
+  /* Hide scrollbars for horizontal pill scrollers (mobile) */
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+  }
+}
